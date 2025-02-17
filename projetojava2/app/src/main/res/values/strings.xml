@@ -1,0 +1,60 @@
+<resources>
+    <!-- Mensagens gerais -->
+    <string name="app_name">Projetin</string>
+    <string name="default_username">Utilizador</string>
+    <string name="unknown_product">Produto Desconhecido</string>
+    <string name="welcome_message">Bem-vindo, %1$s!</string>
+    <string name="update_product">Atualizar</string>
+    <string name="delete_product">Apagar</string>
+
+
+    <!-- Mensagens de erro -->
+    <string name="error_empty_fields">Preencha todos os campos!</string>
+    <string name="error_invalid_price">Preço inválido! Introduza um número válido.</string>
+    <string name="error_insert_product">Erro ao adicionar o produto!</string>
+    <string name="error_update_product">Erro ao atualizar o produto!</string>
+    <string name="error_delete_product">Erro ao eliminar o produto!</string>
+    <string name="default_tab_name">Aba Padrão</string>
+    <string name="error_invalid_credentials">Credenciais inválidas. Tente novamente.</string>
+    <string name="success_insert_user">Utilizador inserido com sucesso!</string>
+    <string name="error_user_already_exists">Já existe um utilizador com esse nome!</string>
+    <string name="error_insert_user">Erro ao criar o utilizador!</string>
+
+
+
+    <!-- Mensagens de sucesso -->
+    <string name="success_insert_product">Produto adicionado com sucesso!</string>
+    <string name="success_update_product">Produto atualizado com sucesso!</string>
+    <string name="success_delete_product">Produto eliminado com sucesso!</string>
+
+    <!-- Diálogo de produto -->
+    <string name="dialog_add_product_title">Adicionar Produto</string>
+    <string name="dialog_update_product_title">Atualizar Produto</string>
+    <string name="product_name_hint">Nome do Produto</string>
+    <string name="product_price_hint">Preço do Produto</string>
+    <string name="save_product_button">Guardar Produto</string>
+    <string name="update_product_button">Atualizar Produto</string>
+    <string name="delete_product_button">Eliminar Produto</string>
+    <string name="username_hint">Nome de Utilizador</string>
+    <string name="password_hint">Palavra-passe</string>
+    <string name="save_product">Guardar Produto</string>
+    <string name="tab_layout_description">Descrição do layout das abas</string>
+    <string name="add_product_title">Adicionar Produto</string>
+    <string name="update_product_title">Atualizar Produto</string>
+    <string name="delete">Apagar</string>
+
+
+    <!-- Botões e Ações -->
+    <string name="add_product_button">Adicionar Produto</string>
+    <string name="logout_button">Logout</string>
+    <string name="signup_button_text">Registar</string>
+    <string name="login_tab">Login</string>
+    <string name="signup_tab">Registo</string>
+
+
+
+    <!-- Confirmações -->
+    <string name="confirm_delete_product">Tens a certeza que queres eliminar este produto?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>
